@@ -4,10 +4,16 @@
 
 
 <h3 align="center">😄Wellcome my github</h3>
+<div align="center">
+ 저는 개발공부하고 있는 목진홍입니다.
+</div>
 
 
 <div align="center">
   <h3>Sorry!</h3>
+</div>
+<div align="center">
+  📫 Email: koreaok01@gmail.com 📫
 </div>
 <div align="center">
   <h4>This page will be updated soon!</h4>
