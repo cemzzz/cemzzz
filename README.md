@@ -58,15 +58,6 @@
  <li>https://github.com/cemzzz/flutter_insta_clone</li>
  <ul>
   <li> 개발 기간: 24/5/4 ~ 24/5/15 </li>
-  <li> 기능 구현 목록</li>
-  <ul>
-   <li> 사용자 기능 구현 (로그인 및 회원가입)</li>
-   <li> 파이어 베이스 연동 작업</li>
-   <li> 프로필 화면 구현</li>
-   <li> 게시글 업로드 구현</li>
-   <li> 댓글 리스트 구현</li>
-   <li> 좋아요 및 좋아요 리스트 구현</li>
-  </ul>
  </ul>
  </ul>
  </ul>
