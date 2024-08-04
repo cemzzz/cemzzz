@@ -85,12 +85,9 @@
 <div>
  <h3> 영화사이트 (넷플릭스 클론) </h3>
  <ul>
-  <li>리액트로 TMDB API를 활용하여 넷플릭스 클론 제작 (24/6/26 ~ 24/6/28)</li>
+  <li>리액트로 TMDB API를 활용하여 넷플릭스 클론 제작 (24/7/23 ~ 24/7/27)</li>
   <li>프로젝트 링크 </li>
   <li> https://github.com/cemzzz/movie-react </li>
-  <ul>
-   <li> 개발 기간: 24/7/23 ~ 24/7/27 </li>
-  </ul>
 </ul>
 </div>
 
