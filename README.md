@@ -37,7 +37,7 @@
 <div>
  <h3> EcoMarket </h3>
  <ul>
-  <li>Spring boot 쇼핑몰 웹 사이트 제작 팀 프로젝트 진행</li>
+  <li>Spring boot 쇼핑몰 웹 사이트 제작 팀 프로젝트 진행 (24/2/27 ~ 24/3/21)</li>
   <li>팀 프로젝트 링크 </li>
   <li>https://github.com/KDH94/teamProject</li>
   <ul>
@@ -53,7 +53,7 @@
 <div>
  <h3>인스타그램 클론</h3>
  <ul>
-  <li>Flutter 인스타그램 클론 앱 개인 프로젝트 진행</li>
+  <li>Flutter 인스타그램 클론 앱 개인 프로젝트 진행 (24/5/4 ~ 24/5/15)</li>
  <li>개인 프로젝트 링크 </li>
  <li>https://github.com/cemzzz/flutter_insta_clone</li>
  <ul>
