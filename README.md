@@ -69,6 +69,16 @@
 </ul>
 </div>
 
+<div></div>
+
+<div>
+ <h3> 유튜브 뮤직 클론 </h3>
+ <ul>
+  <li> next.js로 유튜브 뮤직 클론 제작 (24/7/01 ~ 24/7/14)</li>
+  <li>프로젝트 링크 </li>
+  <li> https://github.com/cemzzz/youtube-music-clone/tree/main </li>
+</ul>
+</div>
 
 <div></div>
 
@@ -84,17 +94,6 @@
 </ul>
 </div>
 
-
-<div></div>
-
-<div>
- <h3> 유튜브 뮤직 클론 </h3>
- <ul>
-  <li> next.js로 유튜브 뮤직 클론 제작 (24/7/01 ~ 24/7/14)</li>
-  <li>프로젝트 링크 </li>
-  <li> https://github.com/cemzzz/youtube-music-clone/tree/main </li>
-</ul>
-</div>
 
 
 <!--
