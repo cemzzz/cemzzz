@@ -32,12 +32,13 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"> 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> 
 </div>
+ 
+# 📑 프로젝트 개요 
 
 <div> 시작한지 얼마되지 않았지만 공부한 내용을 기록하는 습관을 가지려고 합니다.</div>
 <div> 공부한 내용은 블로그에 기록하고 있습니다.</div>
-<a href="https://blog.naver.com/jhcemzzz" />
- 
-# 📑 프로젝트 개요 
+<a href=""https://blog.naver.com/jhcemzzz">블로그 링크</a>
+
 <div>
  <h3> EcoMarket </h3>
  <ul>
