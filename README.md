@@ -43,7 +43,7 @@
  <h3> To-do List </h3>
  <ul>
   <li>Javascript를 활용하여 Todo-list를 제작했습니다.. (24/9/2 ~ 24/9/4)</li>
-  <li> https://github.com/cemzzz/numberGuessing </li>
+  <li> https://github.com/cemzzz/todo-list </li>
 </ul>
 </div>
 
