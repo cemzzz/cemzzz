@@ -56,7 +56,7 @@
 <div>
  <h3>인스타그램 클론</h3>
  <ul>
-  <li>Flutter 인스타그램 클론 앱 개인 프로젝트 진행 (24/5/4 ~ 24/5/15)</li>>
+  <li>Flutter 인스타그램 클론 앱 개인 프로젝트 진행 (24/5/4 ~ 24/5/15)</li>
   <li>https://github.com/cemzzz/flutter_insta_clone</li>
  </ul>
 </div>
