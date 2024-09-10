@@ -51,7 +51,7 @@
 <div>
  <h3> 랜덤숫자맞추기 </h3>
  <ul>
-  <li>Javascript를 활용하여 랜덤숫자맞추기 게임을 제작했습니다. (24/8/26 ~ 24/9/1) <a>https://github.com/cemzzz/numberGuessing </a></li>
+  <li>Javascript를 활용하여 랜덤숫자맞추기 게임을 제작했습니다. (24/8/26 ~ 24/9/1) <a href="https://github.com/cemzzz/numberGuessing ">링크!</a></li>
   <li> https://github.com/cemzzz/numberGuessing </li>
 </ul>
 </div>
