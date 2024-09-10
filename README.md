@@ -40,6 +40,22 @@
 <a href="https://blog.naver.com/jhcemzzz">블로그 링크</a>
 
 <div>
+ <h3> To-do List </h3>
+ <ul>
+  <li>Javascript를 활용하여 Todo-list를 제작했습니다.. (24/9/2 ~ 24/9/4)</li>
+  <li> https://github.com/cemzzz/numberGuessing </li>
+</ul>
+</div>
+
+<div>
+ <h3> 랜덤숫자맞추기 </h3>
+ <ul>
+  <li>Javascript를 활용하여 랜덤숫자맞추기 게임을 제작했습니다. (24/8/26 ~ 24/9/1)</li>
+  <li> https://github.com/cemzzz/numberGuessing </li>
+</ul>
+</div>
+
+<div>
  <h3> 영화사이트 (넷플릭스 클론) </h3>
  <ul>
   <li>리액트로 TMDB API를 활용하여 넷플릭스 클론 제작 (24/7/23 ~ 24/7/27)</li>
