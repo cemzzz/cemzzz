@@ -40,38 +40,12 @@
 <a href="https://blog.naver.com/jhcemzzz">블로그 링크</a>
 
 <div>
- <h3> EcoMarket </h3>
+ <h3> 영화사이트 (넷플릭스 클론) </h3>
  <ul>
-  <li>Spring boot 쇼핑몰 웹 사이트 제작 팀 프로젝트 진행 (24/2/27 ~ 24/3/21)</li>
-  <li>https://github.com/KDH94/teamProject</li>
-  <ul>
-   <li> 역할 : 상품 페이지 및 고객 게시판 구현</li> 
-  </ul>
+  <li>리액트로 TMDB API를 활용하여 넷플릭스 클론 제작 (24/7/23 ~ 24/7/27)</li>
+  <li> https://github.com/cemzzz/movie-react </li>
 </ul>
 </div>
-
-<div></div>
-
-
-<div>
- <h3>인스타그램 클론</h3>
- <ul>
-  <li>Flutter 인스타그램 클론 앱 개인 프로젝트 진행 (24/5/4 ~ 24/5/15)</li>
-  <li>https://github.com/cemzzz/flutter_insta_clone</li>
- </ul>
-</div>
-
-<div></div>
-
-<div>
- <h3> 테트리스 </h3>
- <ul>
-  <li>자바스크립트로 테트리스 게임 구현 (24/6/26 ~ 24/6/28)</li>
-  <li>https://github.com/cemzzz/Tetris</li>
-</ul>
-</div>
-
-<div></div>
 
 <div>
  <h3> 유튜브 뮤직 클론 </h3>
@@ -81,13 +55,30 @@
 </ul>
 </div>
 
-<div></div>
+<div>
+ <h3> 테트리스 </h3>
+ <ul>
+  <li>자바스크립트로 테트리스 게임 구현 (24/6/26 ~ 24/6/28)</li>
+  <li>https://github.com/cemzzz/Tetris</li>
+</ul>
+</div>
 
 <div>
- <h3> 영화사이트 (넷플릭스 클론) </h3>
+ <h3>인스타그램 클론</h3>
  <ul>
-  <li>리액트로 TMDB API를 활용하여 넷플릭스 클론 제작 (24/7/23 ~ 24/7/27)</li>
-  <li> https://github.com/cemzzz/movie-react </li>
+  <li>Flutter 인스타그램 클론 앱 개인 프로젝트 진행 (24/5/4 ~ 24/5/15)</li>
+  <li>https://github.com/cemzzz/flutter_insta_clone</li>
+ </ul>
+</div>
+
+<div>
+ <h3> EcoMarket </h3>
+ <ul>
+  <li>Spring boot 쇼핑몰 웹 사이트 제작 팀 프로젝트 진행 (24/2/27 ~ 24/3/21)</li>
+  <li>https://github.com/KDH94/teamProject</li>
+  <ul>
+   <li> 역할 : 상품 페이지 및 고객 게시판 구현</li> 
+  </ul>
 </ul>
 </div>
 
