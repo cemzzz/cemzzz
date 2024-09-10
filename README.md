@@ -49,9 +49,9 @@
 </div>
 
 <div>
- <h3> 랜덤숫자맞추기 </h3>
+ <h3 href="https://github.com/cemzzz/numberGuessing"> 랜덤숫자맞추기 </h3>
  <ul>
-  <li>Javascript를 활용하여 랜덤숫자맞추기 게임을 제작했습니다. (24/8/26 ~ 24/9/1) <a href="https://github.com/cemzzz/numberGuessing ">링크!</a></li>
+  <li>Javascript를 활용하여 랜덤숫자맞추기 게임을 제작했습니다. (24/8/26 ~ 24/9/1)</li>
   <li> https://github.com/cemzzz/numberGuessing </li>
 </ul>
 </div>
