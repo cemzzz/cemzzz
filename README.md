@@ -43,7 +43,7 @@
 <div>
  <h3> To-do List </h3>
  <ul>
-  <li>Javascript를 활용하여 Todo-list를 제작했습니다.. (24/9/2 ~ 24/9/4)</li>
+  <li>Javascript를 활용하여 Todo-list를 제작 (24/9/2 ~ 24/9/4)</li>
   <li> https://github.com/cemzzz/todo-list </li>
 </ul>
 </div>
@@ -51,7 +51,7 @@
 <div>
  <h3> 랜덤숫자맞추기 </h3>
  <ul>
-  <li>Javascript를 활용하여 랜덤숫자맞추기 게임을 제작했습니다. (24/8/26 ~ 24/9/1)</li>
+  <li>Javascript를 활용하여 랜덤숫자맞추기 게임을 제작 (24/8/26 ~ 24/9/1)</li>
   <li> https://github.com/cemzzz/numberGuessing </li>
 </ul>
 </div>
