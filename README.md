@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello%20world%20i`m%20JH&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello%20world%20I`m%20JH&fontSize=70)
 
 
 <h3 align="center">😄Wellcome my github</h3>
