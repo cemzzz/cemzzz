@@ -57,30 +57,6 @@
 </div>
 
 <div>
- <h3> 영화사이트 (넷플릭스 클론) </h3>
- <ul>
-  <li>리액트로 TMDB API를 활용하여 넷플릭스 클론 제작 (24/7/23 ~ 24/7/27)</li>
-  <li> https://github.com/cemzzz/movie-react </li>
-</ul>
-</div>
-
-<div>
- <h3> 유튜브 뮤직 클론 </h3>
- <ul>
-  <li> next.js로 유튜브 뮤직 클론 제작 (24/7/01 ~ 24/7/14)</li>
-  <li> https://github.com/cemzzz/youtube-music-clone/tree/main </li>
-</ul>
-</div>
-
-<div>
- <h3> 테트리스 </h3>
- <ul>
-  <li>자바스크립트로 테트리스 게임 구현 (24/6/26 ~ 24/6/28)</li>
-  <li>https://github.com/cemzzz/Tetris</li>
-</ul>
-</div>
-
-<div>
  <h3>인스타그램 클론</h3>
  <ul>
   <li>Flutter 인스타그램 클론 앱 개인 프로젝트 진행 (24/5/4 ~ 24/5/15)</li>
