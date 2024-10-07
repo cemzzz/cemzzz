@@ -41,6 +41,31 @@
 <a href="https://blog.naver.com/jhcemzzz">블로그 링크</a>
 
 <div>
+ <h3> game-shop </h3>
+ <ul>
+  <li> 게임 판매 사이트를 제작한 리액트 프로젝트입니다. (24/9/24 ~ 24/10/2)</li>
+  <li> https://github.com/cemzzz/game-shop </li>
+</ul>
+</div>
+
+<div>
+ <h3> 피아노 (작업 진행 중) </h3>
+ <ul>
+  <li> Javascript를 활용하여 Todo-list를 제작 (작업 진행 중입니다.)</li>
+  <li> https://github.com/cemzzz/piano </li>
+</ul>
+</div>
+
+
+<div>
+ <h3> weatherApp </h3>
+ <ul>
+  <li> 날씨 api를 활용하여 각 국가별 수도의 날씨 현황을 확인할 수 있는 리액트 프로젝트입니다. (24/9/19 ~ 24/9/20)</li>
+  <li> https://github.com/cemzzz/whetherApp </li>
+</ul>
+</div>
+
+<div>
  <h3> To-do List </h3>
  <ul>
   <li>Javascript를 활용하여 Todo-list를 제작 (24/9/2 ~ 24/9/4)</li>
